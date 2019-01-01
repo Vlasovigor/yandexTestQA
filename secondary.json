@@ -1,0 +1,14 @@
+{
+  "b": {
+    "smallB1Key": "smallB1value",
+    "smallB2Key": "smallB2value",
+    "smallB3Key": {
+      "smallB4key": "smallB4value"
+    },
+    "smallB5Key": "smallB5value",
+    "smallB6key": [
+      "smallArray1",
+      "smallArray2"
+    ]
+  }
+}
